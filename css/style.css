@@ -607,6 +607,7 @@ h4.white {
 h5.sub-hdg-agileits {
     font-size: 22px;
     letter-spacing: 1px;
+	line-height: 30px;
     text-transform: capitalize;
     float: left;
     padding-top: 0.2em;
