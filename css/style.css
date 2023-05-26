@@ -383,7 +383,7 @@ h4.white {
 }
 
 .resp-tabs-list li:nth-child(1) {
-    background: #ffc400;
+    background: #30475E;
 }
 
 .resp-tabs-list li:nth-child(2) {
@@ -1756,4 +1756,9 @@ h5.sub-hdg-agileits {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.button-margin-top{
+    margin-top: 10 ;
+    margin-bottom: 10;
 }
