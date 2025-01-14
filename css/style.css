@@ -1762,3 +1762,7 @@ h5.sub-hdg-agileits {
     margin-top: 10 ;
     margin-bottom: 10;
 }
+.copyright {
+    margin-bottom: 0;
+    padding-bottom: 20;
+}
