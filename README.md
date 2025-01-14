@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Back-end developer with over 5 years of experience in a top-notch organization and a creative person with the ability of managing the projects and participate in teamwork. Skilled in .Net (Framework, Core), Entity Framework / Core, C#, OOP, SOLID, Design Patterns, SQL Server, UML Modeling, reporting with “StimulSoft”, Familiar with the implementation of human resource processes and very eager to learn new technologies.
+I'm a Experienced Back-End Developer with over 7 years of expertisein .NET technologies, including .NET Framework/Core, EntityFramework/Core, Microservices, Clean Architecture, and Domain-Driven Design (DDD). Proficient in OOP, SOLID, design patterns,MS SQL Server, and comprehensive testing and documentation.Successfully led a backend team for 2 years, driving projectdelivery, fostering collaboration, and mentoring team members.Proven track record of managing projects and implementingsolutions for aviation and human resource processes. Passionateabout continuous learning and staying updated with emergingtechnologies to deliver innovative and efficient software solutions.
 <!--
 **KevinMKM/KevinMKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
